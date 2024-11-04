@@ -10,6 +10,7 @@ export const Tooltip = forwardRef(function Tooltip(props, ref) {
     content,
     contentProps,
     portalRef,
+    placement = "top",
     ...rest
   } = props
 
