@@ -77,7 +77,7 @@ const Sidebar = () => {
             {sidebarItems.map((item, index) => (
               <Tooltip
                 key={index}
-                label={item.text} // Tooltip text
+                content={item.text} // Tooltip text
                 hasArrow
                 placement="right"
                 openDelay={500} // Delay before tooltip shows
