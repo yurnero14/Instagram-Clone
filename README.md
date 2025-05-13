@@ -30,7 +30,7 @@ Can be accessed using /auth, and also by pressing the logout button on the landi
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/your-username/instagram-clone.git
+git clone https://github.com/yurnero14/instagram-clone.git
 cd instagram-clone
 npm install
 npm run dev
