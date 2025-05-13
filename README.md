@@ -1,8 +1,36 @@
-# React + Vite
+# Instagram Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Instagram-inspired web app built with React, Vite, Chakra UI, and React Router. So far only some front end work has been done including auth page, signup, login, logout, and some components of main page.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Screenshots
+
+### 🏠 Home Page
+This is the default landing page
+![Home](./screenshots/home.png)
+
+### 🔐 Auth Page
+Can be accessed using /auth, and also by pressing the logout button on the landing page
+![Auth](./screenshots/auth.png)
+
+### Sign-up Page
+![Signup](./screenshots/signup.png)
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Chakra UI
+- React Router DOM
+
+---
+
+## 📦 Setup
+
+```bash
+git clone https://github.com/your-username/instagram-clone.git
+cd instagram-clone
+npm install
+npm run dev
