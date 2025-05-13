@@ -8,14 +8,14 @@ A simple Instagram-inspired web app built with React, Vite, Chakra UI, and React
 
 ### 🏠 Home Page
 This is the default landing page
-![Home](./screenshots/home.png)
+![Home](./src/screenshots/home.png)
 
 ### 🔐 Auth Page
 Can be accessed using /auth, and also by pressing the logout button on the landing page
-![Auth](./screenshots/auth.png)
+![Auth](./src/screenshots/auth.png)
 
 ### Sign-up Page
-![Signup](./screenshots/signup.png)
+![Signup](./src/screenshots/signup.png)
 ---
 
 ## 🛠️ Tech Stack
